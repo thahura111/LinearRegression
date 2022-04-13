@@ -27,10 +27,10 @@ This understanding will be used by the management to understand how exactly the 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 1 from the analysis : Temperature has hightest influnce on the bike demand
+- Conclusion 2 from the analysis : Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist has negative correlation/influence on the bike demand
+- Conclusion 3 from the analysis : Fall season has the next positive influence on the bike demand
+- Conclusion 4 from the analysis : Windspeed has the next negative crrelation/influence on the bike demand
 
 
 ## Technologies Used
